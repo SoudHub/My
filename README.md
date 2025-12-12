@@ -23,10 +23,10 @@ Here are a few projects I've worked on:
 2. **AI Bot** - Lunaac Bot
 3. **Model** - Creative and modern-style designs.
 
-> Check out my [GitHub repositories](https://github.com/your-username) for more projects!
+> Check out my [GitHub repositories]([https://github.com/your-username](https://github.com/SoudHub/Script)) for more projects!
 
 ## 📫 How to reach me
 - Discord: `hp3ss`
-- 
+  
 ## 📊 GitHub Stats
 ![Pato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
