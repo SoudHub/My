@@ -19,16 +19,14 @@ I'm a passionate developer and tech enthusiast, always exploring new technologie
 ## 📂 Projects
 Here are a few projects I've worked on:
 
-1. **ESP Script for Roblox** - A custom ESP script with Team Check.
-2. **AI Bot** - A Python-based AI that learns and interacts.
-3. **Modern Minecraft Builds** - Creative and modern-style house designs.
+1. **TKS** - Clan For Scripts
+2. **AI Bot** - Lunaac Bot
+3. **Model** - Creative and modern-style designs.
 
 > Check out my [GitHub repositories](https://github.com/your-username) for more projects!
 
 ## 📫 How to reach me
-- Email: david.silva@example.com  
-- Discord: `David#1234`  
-- Twitter: [@DavidTech](https://twitter.com/DavidTech)
-
+- Discord: `hp3ss`
+- 
 ## 📊 GitHub Stats
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Pato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
