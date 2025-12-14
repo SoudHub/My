@@ -26,5 +26,3 @@ Here are a few projects I've worked on:
 ## 📫 How to reach me
 - Discord: `hp3ss`
   
-## 📊 GitHub Stats
-![Pato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
