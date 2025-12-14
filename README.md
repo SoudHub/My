@@ -1,4 +1,4 @@
-# Hi there, I'm David Silva 👋
+# Hi there, I'm PatoTKS 👋
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=30)
 
@@ -22,8 +22,6 @@ Here are a few projects I've worked on:
 1. **TKS** - Clan For Scripts
 2. **AI Bot** - Lunaac Bot
 3. **Model** - Creative and modern-style designs.
-
-> Check out my [GitHub repositories]([https://github.com/your-username](https://github.com/SoudHub/Script)) for more projects!
 
 ## 📫 How to reach me
 - Discord: `hp3ss`
